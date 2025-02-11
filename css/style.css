@@ -1,0 +1,205 @@
+body {
+    background-image: url("../images/russian-grain-train-scaled.jpg");
+    background-position: center;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0px;
+    font-family: Roboto condensed;
+}
+
+.body__opacity {
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+}
+
+.header {
+    background-color:papayawhip;
+    border-bottom: 1px solid seagreen;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+    width: 100%;
+}
+
+.header__gen-logo {
+    padding-left: 25px;
+}
+
+.header__nav {
+    display: flex;
+    justify-content: center;
+    column-gap: 4em;
+    padding-right: 5vw;
+}
+
+.header__btn-menu {
+    height: 40px;
+    width: 200px;
+    border: 1px solid green;
+    background: #4ca06c;
+    border-radius: 10px;
+}
+
+.header__btn-menu:active {
+    background-color:seagreen;
+}
+
+.gpu_nav_volt {
+    border-right: 2px solid green;
+}
+
+.gpu_nav_volt_slide {
+    height: 90vh;
+    background-color: papayawhip;
+    border-right: 1px solid green;
+}
+
+.btn {
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    width: 20px;
+    background:#4ca06c;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+
+.btn:active {
+    background-color:seagreen;
+}
+
+.btn-text {
+    display: flex;
+    font-weight: 700;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+    row-gap: 10px;
+}
+
+#btn1 {    
+    border-bottom: 3px solid green;
+}
+
+.main__display {
+    width: 100%;
+    display: flex;
+}
+    
+.gpu_nav {
+    width: 12%;
+}
+
+.gpu_visibility {
+    list-style: none;
+    margin-top: 1px;
+    padding: 1rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li {
+    border: none;
+    padding: 2.5% 0;
+    display: inline-flex;
+    width: 90%;
+}
+
+hr {
+    padding-left: 5px;
+    display: inline-flex;
+    justify-content: end;
+}
+
+.gpu_line_width {
+    width: 30%;
+}
+
+.gpu_line_color_black {
+    border-top: 5px solid black;
+}
+
+.gpu_line_color_yellow {
+    border-top: 5px solid yellow;
+}
+
+.gpu_line_color_blue {
+    border-top: 5px solid blue;
+}
+
+.gpu_line_color_green {
+    border-top: 5px solid green;
+}
+
+.gpu_line_color_red {
+    border-top: 5px solid red;
+}
+
+.gpu_line_color_purple {
+    border-top: 5px solid purple;
+}
+
+.hr {
+    border-top: 1.5px double green;
+    width: 80%;
+    display: flex;
+}
+
+.gpu_voltage {
+    width: 200px;
+}
+
+.gpu_voltage_grid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: repeat(6, 15vh);
+}
+
+.gpu_graphics_background {
+    background-color:rgb(253, 246, 234);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 90vh;
+}
+
+.gpu_graphics {
+    width: 80vw;
+    height: 75vh;
+    border: 1px solid gray;
+}
+
+.graph {
+    height: 33.333333%;
+    background-color:gainsboro;
+}
+
+.graph1 {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+.graph_visibility {
+    display: flex;
+}
+
+.graph_block {
+    width: 60px;
+    height: 30px;
+    background-color: white;
+    border: 1px solid black;
+    font-size: 14px;
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
