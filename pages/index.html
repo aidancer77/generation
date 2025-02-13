@@ -27,9 +27,9 @@
                 <!-- <a class="header__item" href="#main">главная</a>
                 <a class="header__item" href="#graph">графики</a>
                 <a class="header__item" href="#unload">выгрузка</a> -->
-                <button type="button" class="header__btn-menu btn-text">главная</button>
-                <button type="button" class="header__btn-menu btn-text">графики</button>
-                <button type="button" class="header__btn-menu btn-text">выгрузка</button>
+                <button type="button" class="header__btn-menu btn-text flex_center_center">главная</button>
+                <button type="button" class="header__btn-menu btn-text flex_center_center">графики</button>
+                <button type="button" class="header__btn-menu btn-text flex_center_center">выгрузка</button>
             </nav>
 
         </header>
@@ -37,9 +37,10 @@
             <article>
                 <div class="main__display">
                     <div class="gpu_nav_volt">
-                        <button type="button" id="btn1" class="btn btn-text">N</button>
-                        <button type="button" id="btn2" class="btn btn-text">V</button>
+                        <button type="button" id="btn1" class="btn btn-text flex_center_center">N</button>
+                        <button type="button" id="btn2" class="btn btn-text flex_center_center">V</button>
                     </div>
+
                     <div class="gpu_nav gpu_nav_volt_slide" id="gpu_nav">
                         <ul class="gpu_visibility">
                             <li><input type="checkbox" id="gpu_4_1" onclick="showOrHide4_1()">ГПУ 4.1
@@ -102,23 +103,142 @@
                         </ul>
                         <hr class="hr">
                     </div>
+
                     <div class="gpu_voltage gpu_nav_volt_slide" id="gpu_voltage">
-                        <div class="gpu_voltage_grid">
-                            <div style="background-color: aqua;"></div>
-                            <div style="background-color:blue;"></div>
-                            <div></div>
-                            <div style="background-color: aqua;"></div>
-                            <div style="background-color:blue;"></div>
-                            <div></div>
-                            <div style="background-color: aqua;"></div>
-                            <div style="background-color:blue;"></div>
-                            <div></div>
-                            <div style="background-color: aqua;"></div>
-                            <div style="background-color:blue;"></div>
-                            <div></div>
+                        <div class="gpu_voltage_grid" id="gpu_voltage_grid_4">
+                            <div class="flex_center_center" style="background-color: aqua;">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_4_1" id="voltage_value_4_1"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex_center_center" style="background-color:blue;">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_4_2" id="voltage_value_4_2"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex_center_center">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_4_3" id="voltage_value_4_3"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex_center_center" style="background-color: aqua;">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_4_4" id="voltage_value_4_4"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex_center_center" style="background-color:blue;">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_4_5" id="voltage_value_4_5"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex_center_center">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_4_6" id="voltage_value_4_6"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex_center_center" style="background-color: aqua;">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_4_7" id="voltage_value_4_7"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex_center_center" style="background-color:blue;">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_4_8" id="voltage_value_4_8"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex_center_center">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_4_9" id="voltage_value_4_9"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex_center_center" style="background-color: aqua;">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_4_10" id="voltage_value_4_10"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex_center_center" style="background-color:blue;">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_4_11" id="voltage_value_4_11"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex_center_center">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_4_12" id="voltage_value_4_12"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                         <div class="gpu_voltage_grid" id="gpu_voltage_grid_5">
+                            <div class="flex_center_center" style="background-color: aqua;">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_5_1" id="voltage_value_5_1"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex_center_center" style="background-color:blue;">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_5_2" id="voltage_value_5_2"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex_center_center">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_5_3" id="voltage_value_5_3"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex_center_center" style="background-color: aqua;">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_5_4" id="voltage_value_5_4"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex_center_center" style="background-color:blue;">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_5_5" id="voltage_value_5_5"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex_center_center">
+                                <div class="voltage_value_box_frame">
+                                    <div class="voltage_value_box">
+                                        <div class="voltage_value value_5_6" id="voltage_value_5_6"></div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="gpu_graphics_background">
+
+                    <div class="gpu_graphics_background flex_center_center">
                         <div class="gpu_graphics">
                             <div class="graph graph_visibility">
                                 <div class="graph_block" id="graph_gpu_4_1">ГПУ 4.1</div>
@@ -152,6 +272,8 @@
 
         </footer>
         <script src="../js/javascript.js"></script>
+        <script src="../js/show_4_hide_5.js"></script>
+        <script src="../js/show_5_hide_4.js"></script>
     </div>
 </body>
 

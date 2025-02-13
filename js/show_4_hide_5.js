@@ -1,0 +1,12 @@
+Gpu5_1.checked = false;
+GraphGpu5_1.style.display = "none";
+Gpu5_2.checked = false;
+GraphGpu5_2.style.display = "none";
+Gpu5_3.checked = false;
+GraphGpu5_3.style.display = "none";
+Gpu5_4.checked = false;
+GraphGpu5_4.style.display = "none";
+Gpu5_5.checked = false;
+GraphGpu5_5.style.display = "none";
+Gpu5_6.checked = false;
+GraphGpu5_6.style.display = "none";
