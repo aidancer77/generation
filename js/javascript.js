@@ -105,6 +105,19 @@ function showOrHide4_1() {
         GraphGpu5_5.style.display = "none";
         Gpu5_6.checked = false;
         GraphGpu5_6.style.display = "none";
+
+        Gpu5_1.checked = false;
+        GraphGpu5_1.style.display = "none";
+        Gpu5_2.checked = false;
+        GraphGpu5_2.style.display = "none";
+        Gpu5_3.checked = false;
+        GraphGpu5_3.style.display = "none";
+        Gpu5_4.checked = false;
+        GraphGpu5_4.style.display = "none";
+        Gpu5_5.checked = false;
+        GraphGpu5_5.style.display = "none";
+        Gpu5_6.checked = false;
+        GraphGpu5_6.style.display = "none";
     }
     else {
         GraphGpu4_1.style.display = "none";
@@ -129,6 +142,18 @@ function showOrHide4_2() {
         GraphGpu5_5.style.display = "none";
         Gpu5_6.checked = false;
         GraphGpu5_6.style.display = "none";
+        Gpu5_1.checked = false;
+        GraphGpu5_1.style.display = "none";
+        Gpu5_2.checked = false;
+        GraphGpu5_2.style.display = "none";
+        Gpu5_3.checked = false;
+        GraphGpu5_3.style.display = "none";
+        Gpu5_4.checked = false;
+        GraphGpu5_4.style.display = "none";
+        Gpu5_5.checked = false;
+        GraphGpu5_5.style.display = "none";
+        Gpu5_6.checked = false;
+        GraphGpu5_6.style.display = "none";
     }
     else {
         GraphGpu4_2.style.display = "none";
@@ -140,6 +165,19 @@ function showOrHide4_3() {
     if (Gpu4_3.checked) {
         GraphGpu4_3.style.display = "flex";
         VoltVal4_3.style.display = "flex";
+
+        Gpu5_1.checked = false;
+        GraphGpu5_1.style.display = "none";
+        Gpu5_2.checked = false;
+        GraphGpu5_2.style.display = "none";
+        Gpu5_3.checked = false;
+        GraphGpu5_3.style.display = "none";
+        Gpu5_4.checked = false;
+        GraphGpu5_4.style.display = "none";
+        Gpu5_5.checked = false;
+        GraphGpu5_5.style.display = "none";
+        Gpu5_6.checked = false;
+        GraphGpu5_6.style.display = "none";
 
         Gpu5_1.checked = false;
         GraphGpu5_1.style.display = "none";
@@ -177,6 +215,19 @@ function showOrHide4_4() {
         GraphGpu5_5.style.display = "none";
         Gpu5_6.checked = false;
         GraphGpu5_6.style.display = "none";
+
+        Gpu5_1.checked = false;
+        GraphGpu5_1.style.display = "none";
+        Gpu5_2.checked = false;
+        GraphGpu5_2.style.display = "none";
+        Gpu5_3.checked = false;
+        GraphGpu5_3.style.display = "none";
+        Gpu5_4.checked = false;
+        GraphGpu5_4.style.display = "none";
+        Gpu5_5.checked = false;
+        GraphGpu5_5.style.display = "none";
+        Gpu5_6.checked = false;
+        GraphGpu5_6.style.display = "none";
     }
     else {
         GraphGpu4_4.style.display = "none";
@@ -188,6 +239,19 @@ function showOrHide4_5() {
     if (Gpu4_5.checked) {
         GraphGpu4_5.style.display = "flex";
         VoltVal4_5.style.display = "flex";
+
+        Gpu5_1.checked = false;
+        GraphGpu5_1.style.display = "none";
+        Gpu5_2.checked = false;
+        GraphGpu5_2.style.display = "none";
+        Gpu5_3.checked = false;
+        GraphGpu5_3.style.display = "none";
+        Gpu5_4.checked = false;
+        GraphGpu5_4.style.display = "none";
+        Gpu5_5.checked = false;
+        GraphGpu5_5.style.display = "none";
+        Gpu5_6.checked = false;
+        GraphGpu5_6.style.display = "none";
 
         Gpu5_1.checked = false;
         GraphGpu5_1.style.display = "none";
@@ -225,6 +289,19 @@ function showOrHide4_6() {
         GraphGpu5_5.style.display = "none";
         Gpu5_6.checked = false;
         GraphGpu5_6.style.display = "none";
+
+        Gpu5_1.checked = false;
+        GraphGpu5_1.style.display = "none";
+        Gpu5_2.checked = false;
+        GraphGpu5_2.style.display = "none";
+        Gpu5_3.checked = false;
+        GraphGpu5_3.style.display = "none";
+        Gpu5_4.checked = false;
+        GraphGpu5_4.style.display = "none";
+        Gpu5_5.checked = false;
+        GraphGpu5_5.style.display = "none";
+        Gpu5_6.checked = false;
+        GraphGpu5_6.style.display = "none";
     }
     else {
         GraphGpu4_6.style.display = "none";
@@ -236,6 +313,19 @@ function showOrHide4_7() {
     if (Gpu4_7.checked) {
         GraphGpu4_7.style.display = "flex";
         VoltVal4_7.style.display = "flex";
+
+        Gpu5_1.checked = false;
+        GraphGpu5_1.style.display = "none";
+        Gpu5_2.checked = false;
+        GraphGpu5_2.style.display = "none";
+        Gpu5_3.checked = false;
+        GraphGpu5_3.style.display = "none";
+        Gpu5_4.checked = false;
+        GraphGpu5_4.style.display = "none";
+        Gpu5_5.checked = false;
+        GraphGpu5_5.style.display = "none";
+        Gpu5_6.checked = false;
+        GraphGpu5_6.style.display = "none";
 
         Gpu5_1.checked = false;
         GraphGpu5_1.style.display = "none";
@@ -273,6 +363,20 @@ function showOrHide4_8() {
         GraphGpu5_5.style.display = "none";
         Gpu5_6.checked = false;
         GraphGpu5_6.style.display = "none";
+
+
+        Gpu5_1.checked = false;
+        GraphGpu5_1.style.display = "none";
+        Gpu5_2.checked = false;
+        GraphGpu5_2.style.display = "none";
+        Gpu5_3.checked = false;
+        GraphGpu5_3.style.display = "none";
+        Gpu5_4.checked = false;
+        GraphGpu5_4.style.display = "none";
+        Gpu5_5.checked = false;
+        GraphGpu5_5.style.display = "none";
+        Gpu5_6.checked = false;
+        GraphGpu5_6.style.display = "none";
     }
     else {
         GraphGpu4_8.style.display = "none";
@@ -297,6 +401,19 @@ function showOrHide4_9() {
         GraphGpu5_5.style.display = "none";
         Gpu5_6.checked = false;
         GraphGpu5_6.style.display = "none";
+
+        Gpu5_1.checked = false;
+        GraphGpu5_1.style.display = "none";
+        Gpu5_2.checked = false;
+        GraphGpu5_2.style.display = "none";
+        Gpu5_3.checked = false;
+        GraphGpu5_3.style.display = "none";
+        Gpu5_4.checked = false;
+        GraphGpu5_4.style.display = "none";
+        Gpu5_5.checked = false;
+        GraphGpu5_5.style.display = "none";
+        Gpu5_6.checked = false;
+        GraphGpu5_6.style.display = "none";
     }
     else {
         GraphGpu4_9.style.display = "none";
@@ -308,6 +425,19 @@ function showOrHide4_10() {
     if (Gpu4_10.checked) {
         GraphGpu4_10.style.display = "flex";
         VoltVal4_10.style.display = "flex";
+
+        Gpu5_1.checked = false;
+        GraphGpu5_1.style.display = "none";
+        Gpu5_2.checked = false;
+        GraphGpu5_2.style.display = "none";
+        Gpu5_3.checked = false;
+        GraphGpu5_3.style.display = "none";
+        Gpu5_4.checked = false;
+        GraphGpu5_4.style.display = "none";
+        Gpu5_5.checked = false;
+        GraphGpu5_5.style.display = "none";
+        Gpu5_6.checked = false;
+        GraphGpu5_6.style.display = "none";
 
         Gpu5_1.checked = false;
         GraphGpu5_1.style.display = "none";
@@ -356,6 +486,19 @@ function showOrHide4_12() {
     if (Gpu4_12.checked) {
         GraphGpu4_12.style.display = "flex";
         VoltVal4_12.style.display = "flex";
+
+        Gpu5_1.checked = false;
+        GraphGpu5_1.style.display = "none";
+        Gpu5_2.checked = false;
+        GraphGpu5_2.style.display = "none";
+        Gpu5_3.checked = false;
+        GraphGpu5_3.style.display = "none";
+        Gpu5_4.checked = false;
+        GraphGpu5_4.style.display = "none";
+        Gpu5_5.checked = false;
+        GraphGpu5_5.style.display = "none";
+        Gpu5_6.checked = false;
+        GraphGpu5_6.style.display = "none";
 
         Gpu5_1.checked = false;
         GraphGpu5_1.style.display = "none";
@@ -428,7 +571,7 @@ function showOrHide5_2() {
     if (Gpu5_2.checked) {
         GraphGpu5_2.style.display = "flex";
         VoltVal5_2.style.display = "flex";
-        
+
         Gpu4_1.checked = false;
         GraphGpu4_1.style.display = "none";
         VoltVal4_1.style.display = "none";
@@ -465,6 +608,44 @@ function showOrHide5_2() {
         Gpu4_12.checked = false;
         GraphGpu4_12.style.display = "none";
         VoltVal4_12.style.display = "none";
+
+        Gpu4_1.checked = false;
+        GraphGpu4_1.style.display = "none";
+        VoltVal4_1.style.display = "none";
+        Gpu4_2.checked = false;
+        GraphGpu4_2.style.display = "none";
+        VoltVal4_2.style.display = "none";
+        Gpu4_3.checked = false;
+        GraphGpu4_3.style.display = "none";
+        VoltVal4_3.style.display = "none";
+        Gpu4_4.checked = false;
+        GraphGpu4_4.style.display = "none";
+        VoltVal4_4.style.display = "none";
+        Gpu4_4.checked = false;
+        GraphGpu4_5.style.display = "none";
+        VoltVal4_5.style.display = "none";
+        Gpu4_6.checked = false;
+        GraphGpu4_6.style.display = "none";
+        VoltVal4_6.style.display = "none";
+        Gpu4_7.checked = false;
+        GraphGpu4_7.style.display = "none";
+        VoltVal4_7.style.display = "none";
+        Gpu4_8.checked = false;
+        GraphGpu4_8.style.display = "none";
+        VoltVal4_8.style.display = "none";
+        Gpu4_9.checked = false;
+        GraphGpu4_9.style.display = "none";
+        VoltVal4_9.style.display = "none";
+        Gpu4_10.checked = false;
+        GraphGpu4_10.style.display = "none";
+        VoltVal4_10.style.display = "none";
+        Gpu4_11.checked = false;
+        GraphGpu4_11.style.display = "none";
+        VoltVal4_11.style.display = "none";
+        Gpu4_12.checked = false;
+        GraphGpu4_12.style.display = "none";
+        VoltVal4_12.style.display = "none";
+
     }
     else {
         GraphGpu5_2.style.display = "none";
@@ -513,6 +694,44 @@ function showOrHide5_3() {
         Gpu4_12.checked = false;
         GraphGpu4_12.style.display = "none";
         VoltVal4_12.style.display = "none";
+
+        Gpu4_1.checked = false;
+        GraphGpu4_1.style.display = "none";
+        VoltVal4_1.style.display = "none";
+        Gpu4_2.checked = false;
+        GraphGpu4_2.style.display = "none";
+        VoltVal4_2.style.display = "none";
+        Gpu4_3.checked = false;
+        GraphGpu4_3.style.display = "none";
+        VoltVal4_3.style.display = "none";
+        Gpu4_4.checked = false;
+        GraphGpu4_4.style.display = "none";
+        VoltVal4_4.style.display = "none";
+        Gpu4_4.checked = false;
+        GraphGpu4_5.style.display = "none";
+        VoltVal4_5.style.display = "none";
+        Gpu4_6.checked = false;
+        GraphGpu4_6.style.display = "none";
+        VoltVal4_6.style.display = "none";
+        Gpu4_7.checked = false;
+        GraphGpu4_7.style.display = "none";
+        VoltVal4_7.style.display = "none";
+        Gpu4_8.checked = false;
+        GraphGpu4_8.style.display = "none";
+        VoltVal4_8.style.display = "none";
+        Gpu4_9.checked = false;
+        GraphGpu4_9.style.display = "none";
+        VoltVal4_9.style.display = "none";
+        Gpu4_10.checked = false;
+        GraphGpu4_10.style.display = "none";
+        VoltVal4_10.style.display = "none";
+        Gpu4_11.checked = false;
+        GraphGpu4_11.style.display = "none";
+        VoltVal4_11.style.display = "none";
+        Gpu4_12.checked = false;
+        GraphGpu4_12.style.display = "none";
+        VoltVal4_12.style.display = "none";
+
     }
     else {
         GraphGpu5_3.style.display = "none";
@@ -561,6 +780,44 @@ function showOrHide5_4() {
         Gpu4_12.checked = false;
         GraphGpu4_12.style.display = "none";
         VoltVal4_12.style.display = "none";
+
+        Gpu4_1.checked = false;
+        GraphGpu4_1.style.display = "none";
+        VoltVal4_1.style.display = "none";
+        Gpu4_2.checked = false;
+        GraphGpu4_2.style.display = "none";
+        VoltVal4_2.style.display = "none";
+        Gpu4_3.checked = false;
+        GraphGpu4_3.style.display = "none";
+        VoltVal4_3.style.display = "none";
+        Gpu4_4.checked = false;
+        GraphGpu4_4.style.display = "none";
+        VoltVal4_4.style.display = "none";
+        Gpu4_4.checked = false;
+        GraphGpu4_5.style.display = "none";
+        VoltVal4_5.style.display = "none";
+        Gpu4_6.checked = false;
+        GraphGpu4_6.style.display = "none";
+        VoltVal4_6.style.display = "none";
+        Gpu4_7.checked = false;
+        GraphGpu4_7.style.display = "none";
+        VoltVal4_7.style.display = "none";
+        Gpu4_8.checked = false;
+        GraphGpu4_8.style.display = "none";
+        VoltVal4_8.style.display = "none";
+        Gpu4_9.checked = false;
+        GraphGpu4_9.style.display = "none";
+        VoltVal4_9.style.display = "none";
+        Gpu4_10.checked = false;
+        GraphGpu4_10.style.display = "none";
+        VoltVal4_10.style.display = "none";
+        Gpu4_11.checked = false;
+        GraphGpu4_11.style.display = "none";
+        VoltVal4_11.style.display = "none";
+        Gpu4_12.checked = false;
+        GraphGpu4_12.style.display = "none";
+        VoltVal4_12.style.display = "none";
+
     }
     else {
         GraphGpu5_4.style.display = "none";
@@ -609,6 +866,42 @@ function showOrHide5_5() {
         Gpu4_12.checked = false;
         GraphGpu4_12.style.display = "none";
         VoltVal4_12.style.display = "none";
+        GraphGpu4_1.style.display = "none";
+        VoltVal4_1.style.display = "none";
+        Gpu4_2.checked = false;
+        GraphGpu4_2.style.display = "none";
+        VoltVal4_2.style.display = "none";
+        Gpu4_3.checked = false;
+        GraphGpu4_3.style.display = "none";
+        VoltVal4_3.style.display = "none";
+        Gpu4_4.checked = false;
+        GraphGpu4_4.style.display = "none";
+        VoltVal4_4.style.display = "none";
+        Gpu4_4.checked = false;
+        GraphGpu4_5.style.display = "none";
+        VoltVal4_5.style.display = "none";
+        Gpu4_6.checked = false;
+        GraphGpu4_6.style.display = "none";
+        VoltVal4_6.style.display = "none";
+        Gpu4_7.checked = false;
+        GraphGpu4_7.style.display = "none";
+        VoltVal4_7.style.display = "none";
+        Gpu4_8.checked = false;
+        GraphGpu4_8.style.display = "none";
+        VoltVal4_8.style.display = "none";
+        Gpu4_9.checked = false;
+        GraphGpu4_9.style.display = "none";
+        VoltVal4_9.style.display = "none";
+        Gpu4_10.checked = false;
+        GraphGpu4_10.style.display = "none";
+        VoltVal4_10.style.display = "none";
+        Gpu4_11.checked = false;
+        GraphGpu4_11.style.display = "none";
+        VoltVal4_11.style.display = "none";
+        Gpu4_12.checked = false;
+        GraphGpu4_12.style.display = "none";
+        VoltVal4_12.style.display = "none";
+
     }
     else {
         GraphGpu5_5.style.display = "none";
@@ -657,6 +950,42 @@ function showOrHide5_6() {
         Gpu4_12.checked = false;
         GraphGpu4_12.style.display = "none";
         VoltVal4_12.style.display = "none";
+        GraphGpu4_1.style.display = "none";
+        VoltVal4_1.style.display = "none";
+        Gpu4_2.checked = false;
+        GraphGpu4_2.style.display = "none";
+        VoltVal4_2.style.display = "none";
+        Gpu4_3.checked = false;
+        GraphGpu4_3.style.display = "none";
+        VoltVal4_3.style.display = "none";
+        Gpu4_4.checked = false;
+        GraphGpu4_4.style.display = "none";
+        VoltVal4_4.style.display = "none";
+        Gpu4_4.checked = false;
+        GraphGpu4_5.style.display = "none";
+        VoltVal4_5.style.display = "none";
+        Gpu4_6.checked = false;
+        GraphGpu4_6.style.display = "none";
+        VoltVal4_6.style.display = "none";
+        Gpu4_7.checked = false;
+        GraphGpu4_7.style.display = "none";
+        VoltVal4_7.style.display = "none";
+        Gpu4_8.checked = false;
+        GraphGpu4_8.style.display = "none";
+        VoltVal4_8.style.display = "none";
+        Gpu4_9.checked = false;
+        GraphGpu4_9.style.display = "none";
+        VoltVal4_9.style.display = "none";
+        Gpu4_10.checked = false;
+        GraphGpu4_10.style.display = "none";
+        VoltVal4_10.style.display = "none";
+        Gpu4_11.checked = false;
+        GraphGpu4_11.style.display = "none";
+        VoltVal4_11.style.display = "none";
+        Gpu4_12.checked = false;
+        GraphGpu4_12.style.display = "none";
+        VoltVal4_12.style.display = "none";
+
     }
     else {
         GraphGpu5_6.style.display = "none";
@@ -665,5 +994,4 @@ function showOrHide5_6() {
 }
 
 //-----------------------------------------------------------------------------------
-//gpu voltage value
 
