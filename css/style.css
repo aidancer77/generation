@@ -34,19 +34,28 @@ body {
     display: flex;
     justify-content: center;
     column-gap: 4em;
-    padding-right: 5vw;
+    padding-right: 22vw;
 }
 
 .header__btn-menu {
     height: 40px;
     width: 200px;
-    border: 1px solid green;
-    background: #4ca06c;
+    border: 2px solid green;
     border-radius: 10px;
+    background-color: papayawhip;
 }
 
-.header__btn-menu:active {
+.header_btn-text {
+    font-weight: 700;
+    color: green;
+    text-transform: uppercase;
+    cursor: pointer;
+    row-gap: 10px;
+}
+
+.header__btn-menu:focus {
     background-color: seagreen;
+    color: #fff;
 }
 
 .gpu_nav_volt {
@@ -67,7 +76,7 @@ body {
     border: none;
 }
 
-.btn:active {
+.btn:focus {
     background-color: seagreen;
 }
 
